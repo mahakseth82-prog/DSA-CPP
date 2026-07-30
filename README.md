@@ -15,5 +15,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/mahakseth82-prog/DSA-CPP/tree/master/0050-powx-n) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mahakseth82-prog/DSA-CPP/tree/master/1295-find-numbers-with-even-number-of-digits) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/mahakseth82-prog/DSA-CPP/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
