@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/mahakseth82-prog/DSA-CPP/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/mahakseth82-prog/DSA-CPP/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mahakseth82-prog/DSA-CPP/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2942-find-words-containing-character](https://github.com/mahakseth82-prog/DSA-CPP/tree/master/2942-find-words-containing-character) |
 ## Simulation
 |  |
 | ------- |
@@ -39,4 +40,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mahakseth82-prog/DSA-CPP/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2942-find-words-containing-character](https://github.com/mahakseth82-prog/DSA-CPP/tree/master/2942-find-words-containing-character) |
 <!---LeetCode Topics End-->
