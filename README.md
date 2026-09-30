@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/mahakseth82-prog/DSA-CPP/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mahakseth82-prog/DSA-CPP/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0039-combination-sum](https://github.com/mahakseth82-prog/DSA-CPP/tree/master/0039-combination-sum) |
 | [0088-merge-sorted-array](https://github.com/mahakseth82-prog/DSA-CPP/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/mahakseth82-prog/DSA-CPP/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/mahakseth82-prog/DSA-CPP/tree/master/0189-rotate-array) |
@@ -78,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/mahakseth82-prog/DSA-CPP/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/mahakseth82-prog/DSA-CPP/tree/master/0268-missing-number) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/mahakseth82-prog/DSA-CPP/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
