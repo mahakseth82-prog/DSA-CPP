@@ -35,11 +35,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/mahakseth82-prog/DSA-CPP/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/mahakseth82-prog/DSA-CPP/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/mahakseth82-prog/DSA-CPP/tree/master/0268-missing-number) |
+| [0509-fibonacci-number](https://github.com/mahakseth82-prog/DSA-CPP/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mahakseth82-prog/DSA-CPP/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/mahakseth82-prog/DSA-CPP/tree/master/0050-powx-n) |
+| [0509-fibonacci-number](https://github.com/mahakseth82-prog/DSA-CPP/tree/master/0509-fibonacci-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -83,4 +85,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/mahakseth82-prog/DSA-CPP/tree/master/0039-combination-sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/mahakseth82-prog/DSA-CPP/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/mahakseth82-prog/DSA-CPP/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
